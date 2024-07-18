@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @wailbentafat
-- 👀 I’m interested in backend develop and Mobile
--  How to reach me :wailbentafat@gmail.com
+# Wail's GitHub Profile
 
-<!---
-wailbentafat/wailbentafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hello! I'm Wail, a passionate backend developer specializing in Python frameworks. With one year of experience in developing and maintaining backend services, I have a strong foundation in various Python frameworks and a keen interest in building efficient and scalable applications.
+
+## Skills and Technologies
+- **Languages:** Python
+- **Frameworks:** Django, Flask, FastAPI, Pyramid
+- **Databases:** PostgreSQL, MySQL, SQLite,mongodb
+- **Other Technologies:** Docker, REST APIs, GraphQL, Git, CI/CD
+
+
+
+## Education
+ second year usthb cs student 
+
+## Contact Me
+- **Email:** [wailbentafat@gmail.com
+- 
+- **LinkedIn:** [Wailbentafat ](https://www.linkedin.com/wailbentafat)
+- **GitHub:** [Your GitHub Profile](https://github.com/wailbentafat)
+
+Feel free to reach out to me for collaboration, job opportunities, or any interesting projects!
+
+## GitHub Stats
+![Wail's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## How to Contribute
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Create a new Pull Request
