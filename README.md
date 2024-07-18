@@ -23,7 +23,7 @@ Hello! I'm Wail, a passionate backend developer specializing in Python framework
 Feel free to reach out to me for collaboration, job opportunities, or any interesting projects!
 
 ## GitHub Stats
-![Wail's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Wail's GitHub stats](https://github-readme-stats.vercel.app/api?username=wailbentafat &show_icons=true&theme=radical)
 
 ## How to Contribute
 1. Fork the repository
