@@ -4,10 +4,10 @@
 Hello! I'm Wail, a passionate backend developer specializing in Python frameworks. With one year of experience in developing and maintaining backend services, I have a strong foundation in various Python frameworks and a keen interest in building efficient and scalable applications.
 
 ## Skills and Technologies
-- **Languages:** Python
-- **Frameworks:** Django, Flask, FastAPI, Pyramid
+- **Languages:** Python,javascript
+- **Frameworks:** Django, Flask, FastAPI, react
 - **Databases:** PostgreSQL, MySQL, SQLite,mongodb
-- **Other Technologies:** Docker, REST APIs, GraphQL, Git, CI/CD
+- **Other Technologies:**, REST APIs, , Git, CI/CD
 
 
 
