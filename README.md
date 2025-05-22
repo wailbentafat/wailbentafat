@@ -1,14 +1,14 @@
-<h3 align="center">A passionate full stack mobile developer from algeria</h3>
+<h3 align="center">A passionate full stack developer  developer from algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wailbentafat&label=Profile%20views&color=0e75b6&style=flat" alt="wailbentafat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wailbentafat" alt="wailbentafat" /></a> </p>
 
-- 🔭 I’m currently working on **being full stack mobile**
+- 🔭 I’m currently working on **everything tht give me easy money**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **low level**
 
-- ⚡ Fun fact **iam lost**
+- ⚡ Fun fact **i am reposible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
