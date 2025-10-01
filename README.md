@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack developer  developer from algeria</h3>
+<h3 align="center">A passionate software developer from algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wailbentafat&label=Profile%20views&color=0e75b6&style=flat" alt="wailbentafat" /> </p>
 
