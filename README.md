@@ -100,6 +100,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://docs.docker.com/engine/swarm/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker Swarm" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
   </a>
@@ -108,14 +116,67 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
   </a>
 </p>
 
+### 🤖 **AI & ML Tools**
+<p align="center">
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://docs.anthropic.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude API" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://langgraph.ai/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="45" height="45"/>
+  </a>
+</p>
+
 ---
 
-## 📊 GitHub Statistics
+## � Featured Projects
+
+### 📱 **PixelFlux** - Swift GPU Image Filtering Framework
+GPU-accelerated image filters using Metal for iOS. A comprehensive framework for learning Metal shaders, compute pipelines, and Swift framework integration with a demo iOS app.
+- **Tech**: Swift, Metal, iOS
+- **Link**: [github.com/wailbentafat/PixelFlux](https://github.com/wailbentafat/PixelFlux)
+
+### ⚡ **go-bigdata-breaker** - Distributed Circuit Breaker
+Lightweight and scalable circuit breaker implementation tailored for high-throughput, distributed big data processing pipelines.
+- **Tech**: Go, Distributed Systems, Resilience Patterns
+- **Link**: [github.com/wailbentafat/go-bigdata-breaker](https://github.com/wailbentafat/go-bigdata-breaker)
+
+### 🔄 **Janus** - Fast Go Live Reloader
+A fast live-reloader for Go applications with built-in crash-proof safety net. Perfect for rapid development cycles.
+- **Tech**: Go, Development Tools
+- **Link**: [github.com/wailbentafat/Janus](https://github.com/wailbentafat/Janus)
+
+### 🌐 **ws-hub** - Scalable WebSocket Pooler
+Vendor-neutral WebSocket connection pooler for managing persistent connections, session state, and real-time messaging across distributed systems.
+- **Tech**: Go, WebSocket, Distributed Systems
+- **Link**: [github.com/wailbentafat/ws-hub](https://github.com/wailbentafat/ws-hub)
+
+### 🗄️ **Vellum** - Precision MongoDB ODM
+Vellum: The Precision ODM for Asynchronous MongoDB with Pydantic integration and FastAPI support. Modern async ORM for Python data applications.
+- **Tech**: Python, FastAPI, Pydantic, MongoDB, Async
+- **Link**: [github.com/wailbentafat/Vellum](https://github.com/wailbentafat/Vellum)
+
+### 📊 **Distributed Task Scheduler**
+A production-ready distributed task scheduling system built with Python, utilizing MongoDB for primary task storage, PostgreSQL for time-based bucketing, and Kafka for task distribution to workers.
+- **Tech**: Python, MongoDB, PostgreSQL, Kafka, Distributed Systems
+- **Link**: [github.com/wailbentafat?tab=repositories](https://github.com/wailbentafat?tab=repositories)
+
+---
+
+## �📊 GitHub Statistics
 
 <div align="center">
   
@@ -142,12 +203,14 @@
 | Category | Skills |
 |----------|--------|
 | **Languages** | Swift, Python, Go, TypeScript, JavaScript |
-| **Frontend** | React, Next.js, TailwindCSS, Vue.js |
+| **Frontend** | React, Next.js, TailwindCSS, |
 | **Mobile** | iOS (Swift), Flutter, React Native |
 | **Backend** | FastAPI, Django, NestJS, Node.js |
 | **Databases** | PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, Docker Compose, Linux |
-| **Other** | REST APIs, GraphQL, System Design, Git |
+| **Message Queue** | Kafka, RabbitMQ |
+| **DevOps** | Docker, Docker Swarm, Jenkins, Linux, Git |
+| **Distributed Systems** | Circuit Breakers, Load Balancing, Microservices, WebSocket Pooling |
+| **AI** | LangChain, LangGraph, Claude API, |
 
 ---
 
